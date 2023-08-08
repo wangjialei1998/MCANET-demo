@@ -1,0 +1,270 @@
+model_path:  /disk1/wangjialei/research/odir_main/all2/train/20230628-110231-resnet50d-384/model_best.pth.tar
+N: f1:0.69500 auc:0.56066 kappa:0.14839 acc:0.69500 recall:0.17901 precision:0.59794
+D: f1:0.76100 auc:0.68408 kappa:0.40406 acc:0.76100 recall:0.46177 precision:0.70561
+G: f1:0.94500 auc:0.55013 kappa:0.16611 acc:0.94500 recall:0.10345 precision:0.66667
+C: f1:0.90900 auc:0.89408 kappa:0.51285 acc:0.90900 recall:0.87692 precision:0.40714
+A: f1:0.94500 auc:0.69041 kappa:0.39221 acc:0.94500 recall:0.40816 precision:0.43478
+H: f1:0.94700 auc:0.56890 kappa:0.13143 acc:0.94700 recall:0.16667 precision:0.15152
+M: f1:0.94400 auc:0.84650 kappa:0.52065 acc:0.94400 recall:0.73913 precision:0.43590
+O: f1:0.71200 auc:0.54859 kappa:0.11859 acc:0.71200 recall:0.18545 precision:0.44348
+kappa score: 0.32472  f-1 score: 0.85725  AUC vlaue: 0.84258  Final Score: 0.67485
+
+model_path:  /disk1/wangjialei/research/odir_main/all_bce_before/train/20230702-114441-davit_base-384/checkpoint-20.pth.tar
+N: f1:0.79000 auc:0.71771 kappa:0.47596 acc:0.79000 recall:0.51235 precision:0.76147
+D: f1:0.83300 auc:0.80046 kappa:0.61297 acc:0.83300 recall:0.70642 precision:0.76490
+G: f1:0.95300 auc:0.76472 kappa:0.55175 acc:0.95300 recall:0.55172 precision:0.60377
+C: f1:0.97400 auc:0.90021 kappa:0.78912 acc:0.97400 recall:0.81538 precision:0.79104
+A: f1:0.93200 auc:0.81907 kappa:0.46656 acc:0.93200 recall:0.69388 precision:0.39080
+H: f1:0.96200 auc:0.51203 kappa:0.03553 acc:0.96200 recall:0.03333 precision:0.10000
+M: f1:0.94600 auc:0.89928 kappa:0.56482 acc:0.94600 recall:0.84783 precision:0.45349
+O: f1:0.75600 auc:0.65229 kappa:0.33233 acc:0.75600 recall:0.42182 precision:0.57711
+kappa score: 0.54992  f-1 score: 0.89325  AUC vlaue: 0.90987  Final Score: 0.78435
+
+model_path:  /disk1/wangjialei/research/odir_main/all_fusionloss/train/20230702-100809-res2net50d-384/checkpoint-23.pth.tar
+N: f1:0.80800 auc:0.76558 kappa:0.54789 acc:0.80800 recall:0.64506 precision:0.73077
+D: f1:0.82800 auc:0.77159 kappa:0.58159 acc:0.82800 recall:0.60856 precision:0.81893
+G: f1:0.94200 auc:0.68607 kappa:0.41215 acc:0.94200 recall:0.39655 precision:0.50000
+C: f1:0.97000 auc:0.94101 kappa:0.78136 acc:0.97000 recall:0.90769 precision:0.71084
+A: f1:0.94500 auc:0.75816 kappa:0.46664 acc:0.94500 recall:0.55102 precision:0.45000
+H: f1:0.97200 auc:0.58179 kappa:0.25373 acc:0.97200 recall:0.16667 precision:0.62500
+M: f1:0.94100 auc:0.91735 kappa:0.55391 acc:0.94100 recall:0.89130 precision:0.43158
+O: f1:0.75500 auc:0.59856 kappa:0.24289 acc:0.75500 recall:0.25091 precision:0.63889
+kappa score: 0.54161  f-1 score: 0.89512  AUC vlaue: 0.90850  Final Score: 0.78175
+
+
+
+model_path:  /disk1/wangjialei/research/odir_main/all_fusionloss/train/20230702-100809-res2net50d-384/checkpoint-23.pth.tar
+model_path:  /disk1/wangjialei/research/odir_main/all_bce_before/train/20230702-114441-davit_base-384/checkpoint-25.pth.tar
+model_path:  /disk1/wangjialei/research/odir_main/all_fusionloss/train/20230702-104709-resnet50d-384/checkpoint-24.pth.tar
+model_path:  /disk1/wangjialei/research/odir_main/all_fusionloss/train/20230702-100809-res2net50d-384/checkpoint-24.pth.tar
+N: f1:0.82200 auc:0.78317 kappa:0.58224 acc:0.82200 recall:0.67284 precision:0.75172
+D: f1:0.82900 auc:0.76840 kappa:0.58013 acc:0.82900 recall:0.59327 precision:0.83621
+G: f1:0.95300 auc:0.69191 kappa:0.47155 acc:0.95300 recall:0.39655 precision:0.65714
+C: f1:0.96900 auc:0.91185 kappa:0.76358 acc:0.96900 recall:0.84615 precision:0.72368
+A: f1:0.95000 auc:0.75111 kappa:0.48350 acc:0.95000 recall:0.53061 precision:0.49057
+H: f1:0.97000 auc:0.53230 kappa:0.11137 acc:0.97000 recall:0.06667 precision:0.50000
+M: f1:0.95100 auc:0.90190 kappa:0.59012 acc:0.95100 recall:0.84783 precision:0.48148
+O: f1:0.76500 auc:0.60433 kappa:0.26147 acc:0.76500 recall:0.24727 precision:0.70833
+kappa score: 0.55724  f-1 score: 0.90112  AUC vlaue: 0.92443  Final Score: 0.79427
+
+resolution 512
+model_path:  /disk1/wangjialei/research/odir_main/all_fusionloss/train/20230702-100809-res2net50d-384/checkpoint-23.pth.tar
+model_path:  /disk1/wangjialei/research/odir_main/all_bce_before/train/20230702-114441-davit_base-384/checkpoint-25.pth.tar
+model_path:  /disk1/wangjialei/research/odir_main/all_fusionloss/train/20230702-104709-resnet50d-384/checkpoint-24.pth.tar
+model_path:  /disk1/wangjialei/research/odir_main/all_fusionloss/train/20230702-100809-res2net50d-384/checkpoint-24.pth.tar
+N: f1:0.80700 auc:0.81546 kappa:0.58882 acc:0.80700 recall:0.83951 precision:0.65860
+D: f1:0.80700 auc:0.79137 kappa:0.57062 acc:0.80700 recall:0.74618 precision:0.68927
+G: f1:0.93400 auc:0.77081 kappa:0.47278 acc:0.93400 recall:0.58621 precision:0.44737
+C: f1:0.96100 auc:0.94336 kappa:0.73430 acc:0.96100 recall:0.92308 precision:0.63830
+A: f1:0.92900 auc:0.82717 kappa:0.46206 acc:0.92900 recall:0.71429 precision:0.38043
+H: f1:0.95900 auc:0.57509 kappa:0.17571 acc:0.95900 recall:0.16667 precision:0.23810
+M: f1:0.93000 auc:0.92193 kappa:0.51410 acc:0.93000 recall:0.91304 precision:0.38889
+O: f1:0.76300 auc:0.69774 kappa:0.39954 acc:0.76300 recall:0.55273 precision:0.57143
+kappa score: 0.58258  f-1 score: 0.88625  AUC vlaue: 0.92220  Final Score: 0.79701
+
+model_path:  /disk1/wangjialei/research/odir_main/all_fusionloss/train/20230702-100809-res2net50d-384/checkpoint-23.pth.tar
+N: f1:0.80700 auc:0.81546 kappa:0.58882 acc:0.80700 recall:0.83951 precision:0.65860
+D: f1:0.80700 auc:0.79137 kappa:0.57062 acc:0.80700 recall:0.74618 precision:0.68927
+G: f1:0.93400 auc:0.77081 kappa:0.47278 acc:0.93400 recall:0.58621 precision:0.44737
+C: f1:0.96100 auc:0.94336 kappa:0.73430 acc:0.96100 recall:0.92308 precision:0.63830
+A: f1:0.92900 auc:0.82717 kappa:0.46206 acc:0.92900 recall:0.71429 precision:0.38043
+H: f1:0.95900 auc:0.57509 kappa:0.17571 acc:0.95900 recall:0.16667 precision:0.23810
+M: f1:0.93000 auc:0.92193 kappa:0.51410 acc:0.93000 recall:0.91304 precision:0.38889
+O: f1:0.76300 auc:0.69774 kappa:0.39954 acc:0.76300 recall:0.55273 precision:0.57143
+kappa score: 0.58258  f-1 score: 0.88625  AUC vlaue: 0.92220  Final Score: 0.79701
+
+
+resolution 384
+model_path:  /disk1/wangjialei/research/odir_main/all_fusionloss/train/20230702-100809-res2net50d-384/checkpoint-23.pth.tar
+model_path:  /disk1/wangjialei/research/odir_main/all_bce_before/train/20230702-114441-davit_base-384/checkpoint-25.pth.tar
+model_path:  /disk1/wangjialei/research/odir_main/all_fusionloss/train/20230702-104709-resnet50d-384/checkpoint-24.pth.tar
+model_path:  /disk1/wangjialei/research/odir_main/all_fusionloss/train/20230702-100809-res2net50d-384/checkpoint-24.pth.tar
+N: f1:0.81700 auc:0.78429 kappa:0.57645 acc:0.81700 recall:0.69136 precision:0.72964
+D: f1:0.84600 auc:0.79911 kappa:0.63097 acc:0.84600 recall:0.66361 precision:0.83142
+G: f1:0.94100 auc:0.76644 kappa:0.49671 acc:0.94100 recall:0.56897 precision:0.49254
+C: f1:0.97700 auc:0.91613 kappa:0.81476 acc:0.97700 recall:0.84615 precision:0.80882
+A: f1:0.95000 auc:0.78982 kappa:0.51933 acc:0.95000 recall:0.61224 precision:0.49180
+H: f1:0.96600 auc:0.54639 kappa:0.13706 acc:0.96600 recall:0.10000 precision:0.30000
+M: f1:0.93800 auc:0.92612 kappa:0.54678 acc:0.93800 recall:0.91304 precision:0.42000
+O: f1:0.76800 auc:0.63799 kappa:0.32174 acc:0.76800 recall:0.34909 precision:0.64430
+kappa score: 0.57981  f-1 score: 0.90037  AUC vlaue: 0.92767  Final Score: 0.80262
+
+model_path:  /disk1/wangjialei/research/odir_main/all_mix_model_lock_checkpoint/train/20230703-202119-davit_base-384/checkpoint-30.pth.tar
+N: f1:0.81100 auc:0.78789 kappa:0.57164 acc:0.81100 recall:0.72222 precision:0.70270
+D: f1:0.83400 auc:0.79570 kappa:0.61060 acc:0.83400 recall:0.68502 precision:0.78049
+G: f1:0.94900 auc:0.75450 kappa:0.52167 acc:0.94900 recall:0.53448 precision:0.56364
+C: f1:0.97300 auc:0.88536 kappa:0.77627 acc:0.97300 recall:0.78462 precision:0.79688
+A: f1:0.95500 auc:0.80213 kappa:0.55585 acc:0.95500 recall:0.63265 precision:0.53448
+H: f1:0.96700 auc:0.54691 kappa:0.14197 acc:0.96700 recall:0.10000 precision:0.33333
+M: f1:0.96100 auc:0.92783 kappa:0.65819 acc:0.96100 recall:0.89130 precision:0.54667
+O: f1:0.78100 auc:0.68646 kappa:0.40441 acc:0.78100 recall:0.47636 precision:0.63592
+kappa score: 0.60401  f-1 score: 0.90387  AUC vlaue: 0.91567  Final Score: 0.80785
+
+512resolution
+model_path:  /disk1/wangjialei/research/odir_main/all_mix_model_lock_checkpoint/train/20230703-202119-davit_base-384/checkpoint-30.pth.tar
+N: f1:0.79200 auc:0.76982 kappa:0.53194 acc:0.79200 recall:0.70679 precision:0.66959
+D: f1:0.83600 auc:0.79955 kappa:0.61654 acc:0.83600 recall:0.69419 precision:0.78007
+G: f1:0.94900 auc:0.67360 kappa:0.42658 acc:0.94900 recall:0.36207 precision:0.60000
+C: f1:0.97500 auc:0.91506 kappa:0.80143 acc:0.97500 recall:0.84615 precision:0.78571
+A: f1:0.95200 auc:0.80055 kappa:0.53856 acc:0.95200 recall:0.63265 precision:0.50820
+H: f1:0.97100 auc:0.53282 kappa:0.11639 acc:0.97100 recall:0.06667 precision:0.66667
+M: f1:0.96200 auc:0.87663 kappa:0.63501 acc:0.96200 recall:0.78261 precision:0.56250
+O: f1:0.79100 auc:0.69110 kappa:0.42169 acc:0.79100 recall:0.46909 precision:0.67188
+kappa score: 0.59823  f-1 score: 0.90350  AUC vlaue: 0.91431  Final Score: 0.80535
+
+
+model_path:  /disk1/wangjialei/research/odir_main/all_mix_lock_new/train/20230704-165540-vit_base_patch16_384-384/model_best.pth.tar
+N: f1:0.82100 auc:0.81055 kappa:0.60317 acc:0.82100 recall:0.78086 precision:0.70083
+D: f1:0.82900 auc:0.75976 kappa:0.57214 acc:0.82900 recall:0.55963 precision:0.87143
+G: f1:0.95300 auc:0.74854 kappa:0.53610 acc:0.95300 recall:0.51724 precision:0.61224
+C: f1:0.97400 auc:0.94315 kappa:0.80558 acc:0.97400 recall:0.90769 precision:0.74684
+A: f1:0.94700 auc:0.80760 kappa:0.51965 acc:0.94700 recall:0.65306 precision:0.47059
+H: f1:0.97000 auc:0.54845 kappa:0.15825 acc:0.97000 recall:0.10000 precision:0.50000
+M: f1:0.95700 auc:0.88435 kappa:0.61075 acc:0.95700 recall:0.80435 precision:0.52113
+O: f1:0.78600 auc:0.65266 kappa:0.36262 acc:0.78600 recall:0.35636 precision:0.72593
+kappa score: 0.59103  f-1 score: 0.90463  AUC vlaue: 0.92183  Final Score: 0.80583
+
+model_path:  /disk1/wangjialei/research/odir_main/all_mix_lock_new/train/20230704-165540-vit_base_patch16_384-384/checkpoint-1.pth.tar
+N: f1:0.79600 auc:0.76795 kappa:0.53504 acc:0.79600 recall:0.68827 precision:0.68405
+D: f1:0.83400 auc:0.79413 kappa:0.60934 acc:0.83400 recall:0.67890 precision:0.78445
+G: f1:0.95300 auc:0.75663 kappa:0.54406 acc:0.95300 recall:0.53448 precision:0.60784
+C: f1:0.97200 auc:0.91345 kappa:0.78212 acc:0.97200 recall:0.84615 precision:0.75342
+A: f1:0.93100 auc:0.81855 kappa:0.46252 acc:0.93100 recall:0.69388 precision:0.38636
+H: f1:0.97000 auc:0.53230 kappa:0.11137 acc:0.97000 recall:0.06667 precision:0.50000
+M: f1:0.94600 auc:0.88893 kappa:0.55836 acc:0.94600 recall:0.82609 precision:0.45238
+O: f1:0.76400 auc:0.59799 kappa:0.24877 acc:0.76400 recall:0.22909 precision:0.72414
+kappa score: 0.55583  f-1 score: 0.89575  AUC vlaue: 0.91304  Final Score: 0.78821
+
+model_path:  /disk1/wangjialei/research/odir_main/all_mix_lock_new/train/20230704-165540-vit_base_patch16_384-384/checkpoint-4.pth.tar
+N: f1:0.81300 auc:0.79660 kappa:0.58151 acc:0.81300 recall:0.75000 precision:0.69628
+D: f1:0.82500 auc:0.79216 kappa:0.59508 acc:0.82500 recall:0.69725 precision:0.75000
+G: f1:0.95100 auc:0.72320 kappa:0.49888 acc:0.95100 recall:0.46552 precision:0.60000
+C: f1:0.97500 auc:0.92937 kappa:0.80677 acc:0.97500 recall:0.87692 precision:0.77027
+A: f1:0.94700 auc:0.78825 kappa:0.50341 acc:0.94700 recall:0.61224 precision:0.46875
+H: f1:0.96900 auc:0.51564 kappa:0.05545 acc:0.96900 recall:0.03333 precision:0.33333
+M: f1:0.93800 auc:0.92612 kappa:0.54678 acc:0.93800 recall:0.91304 precision:0.42000
+O: f1:0.79300 auc:0.67781 kappa:0.40654 acc:0.79300 recall:0.42182 precision:0.70732
+kappa score: 0.59606  f-1 score: 0.90138  AUC vlaue: 0.91679  Final Score: 0.80474
+
+model_path:  /disk1/wangjialei/research/odir_main/all_mix_lock_new/train/20230704-165540-vit_base_patch16_384-384/checkpoint-3.pth.tar
+N: f1:0.79700 auc:0.73655 kappa:0.50517 acc:0.79700 recall:0.56481 precision:0.74694
+D: f1:0.82500 auc:0.78037 kappa:0.58512 acc:0.82500 recall:0.65138 precision:0.77737
+G: f1:0.95300 auc:0.73236 kappa:0.51933 acc:0.95300 recall:0.48276 precision:0.62222
+C: f1:0.97700 auc:0.93760 kappa:0.82223 acc:0.97700 recall:0.89231 precision:0.78378
+A: f1:0.94200 auc:0.81465 kappa:0.50279 acc:0.94200 recall:0.67347 precision:0.44000
+H: f1:0.96900 auc:0.51564 kappa:0.05545 acc:0.96900 recall:0.03333 precision:0.33333
+M: f1:0.96000 auc:0.87558 kappa:0.62239 acc:0.96000 recall:0.78261 precision:0.54545
+O: f1:0.76800 auc:0.67636 kappa:0.37743 acc:0.76800 recall:0.47273 precision:0.59908
+kappa score: 0.56963  f-1 score: 0.89887  AUC vlaue: 0.91744  Final Score: 0.79532
+
+model_path:  /disk1/wangjialei/research/odir_main/all_mix_lock_new/train/20230704-165540-vit_base_patch16_384-384/checkpoint-5.pth.tar
+N: f1:0.79000 auc:0.72173 kappa:0.48053 acc:0.79000 recall:0.52778 precision:0.75000
+D: f1:0.83000 auc:0.79587 kappa:0.60507 acc:0.83000 recall:0.69725 precision:0.76254
+G: f1:0.95500 auc:0.71724 kappa:0.51339 acc:0.95500 recall:0.44828 precision:0.66667
+C: f1:0.97800 auc:0.92382 kappa:0.82404 acc:0.97800 recall:0.86154 precision:0.81159
+A: f1:0.94200 auc:0.82433 kappa:0.51036 acc:0.94200 recall:0.69388 precision:0.44156
+H: f1:0.96900 auc:0.51564 kappa:0.05545 acc:0.96900 recall:0.03333 precision:0.33333
+M: f1:0.95700 auc:0.89470 kappa:0.61704 acc:0.95700 recall:0.82609 precision:0.52055
+O: f1:0.77500 auc:0.67103 kappa:0.37742 acc:0.77500 recall:0.44000 precision:0.63021
+kappa score: 0.56922  f-1 score: 0.89950  AUC vlaue: 0.91569  Final Score: 0.79480
+
+model_path:  /disk1/wangjialei/research/odir_main/all_mix_lock_new/train/20230704-165540-vit_base_patch16_384-384/checkpoint-4.pth.tar
+N: f1:0.81500 auc:0.79486 kappa:0.58270 acc:0.81500 recall:0.73765 precision:0.70501
+D: f1:0.82100 auc:0.80098 kappa:0.59680 acc:0.82100 recall:0.74312 precision:0.71893
+G: f1:0.94000 auc:0.79017 kappa:0.51384 acc:0.94000 recall:0.62069 precision:0.48649
+C: f1:0.97900 auc:0.92435 kappa:0.83086 acc:0.97900 recall:0.86154 precision:0.82353
+A: f1:0.94700 auc:0.78825 kappa:0.50341 acc:0.94700 recall:0.61224 precision:0.46875
+H: f1:0.96600 auc:0.54639 kappa:0.13706 acc:0.96600 recall:0.10000 precision:0.30000
+M: f1:0.92200 auc:0.91774 kappa:0.48456 acc:0.92200 recall:0.91304 precision:0.36207
+O: f1:0.78400 auc:0.66821 kappa:0.38312 acc:0.78400 recall:0.41091 precision:0.67665
+kappa score: 0.58800  f-1 score: 0.89675  AUC vlaue: 0.91779  Final Score: 0.80085
+
+model_path:  /disk1/wangjialei/research/odir_main/all_mix_lock_new/train/20230704-165540-vit_base_patch16_384-384/checkpoint-4.pth.tar
+N: f1:0.70900 auc:0.68432 kappa:0.35688 acc:0.70900 recall:0.61420 precision:0.54521
+D: f1:0.77700 auc:0.67396 kappa:0.40712 acc:0.77700 recall:0.37615 precision:0.86620
+G: f1:0.94300 auc:0.52480 kappa:0.08683 acc:0.94300 recall:0.05172 precision:0.60000
+C: f1:0.87400 auc:0.91115 kappa:0.44235 acc:0.87400 recall:0.95385 precision:0.33514
+A: f1:0.94700 auc:0.53661 kappa:0.11407 acc:0.94700 recall:0.08163 precision:0.33333
+H: f1:0.97000 auc:0.50000 kappa:0.00000 acc:0.97000 recall:0.00000 precision:0.00000
+M: f1:0.94900 auc:0.83878 kappa:0.53833 acc:0.94900 recall:0.71739 precision:0.46479
+O: f1:0.76700 auc:0.61812 kappa:0.28790 acc:0.76700 recall:0.28727 precision:0.68103
+kappa score: 0.41119  f-1 score: 0.86700  AUC vlaue: 0.84376  Final Score: 0.70732
+
+model_path:  /disk1/wangjialei/research/odir_main/all_mix_lock_new/train/20230704-165540-vit_base_patch16_384-384/checkpoint-4.pth.tar
+N: f1:0.77700 auc:0.77801 kappa:0.52203 acc:0.77700 recall:0.78086 precision:0.62469
+D: f1:0.77500 auc:0.74401 kappa:0.48840 acc:0.77500 recall:0.65443 precision:0.65644
+G: f1:0.92800 auc:0.81617 kappa:0.48971 acc:0.92800 recall:0.68966 precision:0.42553
+C: f1:0.98100 auc:0.90395 kappa:0.83788 acc:0.98100 recall:0.81538 precision:0.88333
+A: f1:0.94800 auc:0.75006 kappa:0.47267 acc:0.94800 recall:0.53061 precision:0.47273
+H: f1:0.97000 auc:0.51615 kappa:0.05897 acc:0.97000 recall:0.03333 precision:0.50000
+M: f1:0.89800 auc:0.93620 kappa:0.42879 acc:0.89800 recall:0.97826 precision:0.30822
+O: f1:0.77100 auc:0.67166 kappa:0.37415 acc:0.77100 recall:0.45091 precision:0.61386
+kappa score: 0.54349  f-1 score: 0.88100  AUC vlaue: 0.89117  Final Score: 0.77189
+
+model_path:  /disk1/wangjialei/research/odir_main/all_mix_lock_new_channel_attention/train/20230704-203133-vit_base_patch16_384-384/checkpoint-2.pth.tar
+N: f1:0.80900 auc:0.78159 kappa:0.56362 acc:0.80900 recall:0.70370 precision:0.70588
+D: f1:0.83200 auc:0.76749 kappa:0.58361 acc:0.83200 recall:0.58104 precision:0.85973
+G: f1:0.95300 auc:0.78090 kappa:0.56637 acc:0.95300 recall:0.58621 precision:0.59649
+C: f1:0.97600 auc:0.87980 kappa:0.79369 acc:0.97600 recall:0.76923 precision:0.84746
+A: f1:0.93100 auc:0.81855 kappa:0.46252 acc:0.93100 recall:0.69388 precision:0.38636
+H: f1:0.96000 auc:0.60790 kappa:0.23896 acc:0.96000 recall:0.23333 precision:0.29167
+M: f1:0.94400 auc:0.92927 kappa:0.57366 acc:0.94400 recall:0.91304 precision:0.44681
+O: f1:0.78000 auc:0.66207 kappa:0.37008 acc:0.78000 recall:0.40000 precision:0.66667
+kappa score: 0.57159  f-1 score: 0.89812  AUC vlaue: 0.91701  Final Score: 0.79558
+
+model_path:  /disk1/wangjialei/research/odir_main/all_mix_lock_new_channel_attention8/train/20230705-102456-vit_base_patch16_384-384/checkpoint-0.pth.tar
+N: f1:0.79400 auc:0.78496 kappa:0.54790 acc:0.79400 recall:0.75926 precision:0.65775
+D: f1:0.84000 auc:0.77736 kappa:0.60412 acc:0.84000 recall:0.59633 precision:0.87444
+G: f1:0.93700 auc:0.81285 kappa:0.52045 acc:0.93700 recall:0.67241 precision:0.46988
+C: f1:0.96700 auc:0.93225 kappa:0.76101 acc:0.96700 recall:0.89231 precision:0.69048
+A: f1:0.92700 auc:0.77773 kappa:0.41491 acc:0.92700 recall:0.61224 precision:0.35714
+H: f1:0.95700 auc:0.59021 kappa:0.19626 acc:0.95700 recall:0.20000 precision:0.24000
+M: f1:0.93000 auc:0.93228 kappa:0.52015 acc:0.93000 recall:0.93478 precision:0.39091
+O: f1:0.77000 auc:0.63824 kappa:0.32403 acc:0.77000 recall:0.34545 precision:0.65517
+kappa score: 0.55453  f-1 score: 0.89025  AUC vlaue: 0.89883  Final Score: 0.78120
+
+model_path:  /disk1/wangjialei/research/odir_main/all_mix_lock_new_channel_attention2/train/20230705-110129-vit_base_patch16_384-512/checkpoint-1.pth.tar
+N: f1:0.79900 auc:0.75972 kappa:0.53097 acc:0.79900 recall:0.64815 precision:0.70707
+D: f1:0.82300 auc:0.78910 kappa:0.58980 acc:0.82300 recall:0.69113 precision:0.74834
+G: f1:0.92000 auc:0.82810 kappa:0.47266 acc:0.92000 recall:0.72414 precision:0.39623
+C: f1:0.97900 auc:0.91004 kappa:0.82599 acc:0.97900 recall:0.83077 precision:0.84375
+A: f1:0.93900 auc:0.82275 kappa:0.49653 acc:0.93900 recall:0.69388 precision:0.42500
+H: f1:0.96000 auc:0.52715 kappa:0.07322 acc:0.96000 recall:0.06667 precision:0.14286
+M: f1:0.92100 auc:0.94825 kappa:0.49900 acc:0.92100 recall:0.97826 precision:0.36585
+O: f1:0.77200 auc:0.66897 kappa:0.37147 acc:0.77200 recall:0.44000 precision:0.62051
+kappa score: 0.55835  f-1 score: 0.88913  AUC vlaue: 0.89681  Final Score: 0.78143
+
+model_path:  /disk1/wangjialei/research/odir_main/all_mix_lock_new_channel_attention2/train/20230705-155331-vit_medium_patch16_gap_384-512/checkpoint-4.pth.tar
+N: f1:0.79300 auc:0.75448 kappa:0.51855 acc:0.79300 recall:0.64506 precision:0.69435
+D: f1:0.81300 auc:0.78403 kappa:0.57211 acc:0.81300 recall:0.70031 precision:0.72013
+G: f1:0.91900 auc:0.81139 kappa:0.45657 acc:0.91900 recall:0.68966 precision:0.38835
+C: f1:0.97600 auc:0.89412 kappa:0.79968 acc:0.97600 recall:0.80000 precision:0.82540
+A: f1:0.94100 auc:0.80445 kappa:0.49027 acc:0.94100 recall:0.65306 precision:0.43243
+H: f1:0.93100 auc:0.59296 kappa:0.13555 acc:0.93100 recall:0.23333 precision:0.13208
+M: f1:0.93400 auc:0.94472 kappa:0.54187 acc:0.93400 recall:0.95652 precision:0.40741
+O: f1:0.75100 auc:0.63868 kappa:0.30756 acc:0.75100 recall:0.38909 precision:0.56915
+kappa score: 0.53538  f-1 score: 0.88225  AUC vlaue: 0.89774  Final Score: 0.77179
+
+
+
+model_path:  /disk1/wangjialei/research/odir_main/final_for_paper/train/20230713-205433-res2net50d-384/checkpoint-4.pth.tar
+N: f1:0.81400 auc:0.80537 kappa:0.58989 acc:0.81400 recall:0.78086 precision:0.68750
+D: f1:0.82600 auc:0.79919 kappa:0.60217 acc:0.82600 recall:0.72171 precision:0.73981
+G: f1:0.93600 auc:0.75569 kappa:0.46613 acc:0.93600 recall:0.55172 precision:0.45714
+C: f1:0.96300 auc:0.93727 kappa:0.74180 acc:0.96300 recall:0.90769 precision:0.65556
+A: f1:0.94200 auc:0.80497 kappa:0.49498 acc:0.94200 recall:0.65306 precision:0.43836
+H: f1:0.95200 auc:0.58763 kappa:0.17526 acc:0.95200 recall:0.20000 precision:0.20000
+M: f1:0.94200 auc:0.90753 kappa:0.55225 acc:0.94200 recall:0.86957 precision:0.43478
+O: f1:0.77300 auc:0.62677 kappa:0.30814 acc:0.77300 recall:0.30182 precision:0.70339
+kappa score: 0.57262  f-1 score: 0.89350  AUC vlaue: 0.90230  Final Score: 0.78947
+
+model_path:  /disk1/wangjialei/research/odir_main/final_for_paper_backbone/train/20230713-163117-res2net50d-384/checkpoint-21.pth.tar
+N: f1:0.78400 auc:0.75506 kappa:0.50848 acc:0.78400 recall:0.67284 precision:0.66463
+D: f1:0.83400 auc:0.79177 kappa:0.60742 acc:0.83400 recall:0.66972 precision:0.79061
+G: f1:0.93300 auc:0.77837 kappa:0.47589 acc:0.93300 recall:0.60345 precision:0.44304
+C: f1:0.97400 auc:0.90736 kappa:0.79205 acc:0.97400 recall:0.83077 precision:0.78261
+A: f1:0.94200 auc:0.82433 kappa:0.51036 acc:0.94200 recall:0.69388 precision:0.44156
+H: f1:0.96500 auc:0.54588 kappa:0.13237 acc:0.96500 recall:0.10000 precision:0.27273
+M: f1:0.93500 auc:0.89351 kappa:0.51520 acc:0.93500 recall:0.84783 precision:0.40206
+O: f1:0.75600 auc:0.65229 kappa:0.33233 acc:0.75600 recall:0.42182 precision:0.57711
+kappa score: 0.55678  f-1 score: 0.89038  AUC vlaue: 0.90927  Final Score: 0.78548
